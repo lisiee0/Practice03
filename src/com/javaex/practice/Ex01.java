@@ -15,5 +15,16 @@ public class Ex01 {
 			System.out.println("order"+order);
 		}
 	}
-
 }
+/* 에측
+
+while문
+index0
+index1
+index2
+for문
+order0
+order1
+order2
+
+*/
