@@ -39,7 +39,7 @@ public class Ex10 {
 			if(max<num5) {
 				max= num5;
 			}
-			System.out.println(max);
+			System.out.println("최대값은 "+max+"입니다.");
 			break;
 		}
 		sc.close();
