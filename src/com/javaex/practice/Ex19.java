@@ -28,7 +28,7 @@ public class Ex19 {
 				bal= bal-with;
 			}
 			else if(num==3) {
-				System.out.println(bal);
+				System.out.println("잔고액> "+bal);
 			}
 			else if(num==4) {
 				System.out.println("프로그램 종료");
