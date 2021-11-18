@@ -8,11 +8,13 @@ public class Ex20 {
 		
 		Scanner sc= new Scanner(System.in);
 		
-		int RA= 57;
+		
 		String exit;
 		boolean restart= true;
 		
 		while(restart) {
+			int RA= (int)(Math.random()*100)+1;
+			
 			System.out.println("=============================");
 			System.out.println("      [숫자 맞추기 게임 시작]      ");
 			System.out.println("=============================");
